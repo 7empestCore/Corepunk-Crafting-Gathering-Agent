@@ -13,4 +13,4 @@ It is only a visual tool for tracking progress.
 
 Thanks for trying it.
 
-I am 7empestCore in the official Corepunk discord if you want to reach out x
+I am 7empestCore in the official Corepunk discord if you want to reach out for feedback/bug reporting/feature request/missing information etc x
